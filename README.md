@@ -1,2 +1,2 @@
-# gittest
-this is just a test for my api
+# Projet Node JS
+Building an Api for management of blogs
